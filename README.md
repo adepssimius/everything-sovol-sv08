@@ -28,17 +28,22 @@ For now I am using this as an outline to plan and a place to catalog mods that I
 ## More Printable SV08 Toolhead Cover by Damian Cady
 The printhead cover is not well suited to printing. Print your own more easily with this model.
 
-### Available at
+#### Testing Status: ❓ Untested
+
+#### Available at
 - [Printables](https://www.printables.com/model/850271-sovol-sv08-alternative-toolhead-cover)
 
 ## BTT 5" HDMI Screen Adapter by Nadir
 The screen available from sovol is a bit pricey for what it is. Use this to be able to use a common 3d printer touch screen and have it look like your printer came with it.
 
-### Available at
+#### Testing Status: ❓ Untested
+
+#### Available at
 - [Printables](https://www.printables.com/model/848629-sovol-sv08-5-btt-hdmi-dislay)
 
-### Other info
-- [BTT Screen Link](https://www.amazon.com/BIGTREETECH-Display-800x480-Compatible-Raspberry/dp/B0BC4CPDC3)
+#### Other info
+- [5" BTT Screen on aliexpress](https://www.aliexpress.us/item/3256805702942821.html)
+- [5" BTT Screen on Amazon](https://www.amazon.com/BIGTREETECH-Display-800x480-Compatible-Raspberry/dp/B0BC4CPDC3)
 - [Reddit discussion](https://www.reddit.com/r/Sovol/comments/1c7dpnz/hello_everyone_here_its_my_first_mod_to_the_sv08/)
 
 ## Klicky Probe Mod by Nadir
@@ -46,10 +51,12 @@ Using an inductive probe to find your z location can be problematic due to tempe
 
 _Further instructions will be added soon, as this is one of the first mods I wil be doing to my SV08._
 
-### Available at
+#### Testing Status: ❓ Untested
+
+#### Available at
 - [Printables](https://www.printables.com/model/849409-klicky-probe-for-sovol-sv08-abl)
 
-### Other Info
+#### Other Info
 - [Reddit Discussion and more info](https://www.reddit.com/r/Sovol/comments/1c82929/klicky_probe_mod_for_sovol_sv08/)
 
 # Modifications
@@ -57,11 +64,9 @@ _Further instructions will be added soon, as this is one of the first mods I wil
 ## Cheaper HDMI Touchscreen
 The screen price from sovol is pretty steep. Here's a few HDMI touchscreens that should work just fine. See the [5" HDMI Screen Adapter](#btt-5-hdmi-screen-adapter-by-nadir) as well.
 
-- [5" BTT on aliexpress](https://www.aliexpress.us/item/3256805702942821.html)
-- [5" BTT on Amazon](https://www.amazon.com/BIGTREETECH-Display-800x480-Compatible-Raspberry/dp/B0BC4CPDC3)
-- [Generic 7" with integrated stand on aliexpress](https://www.aliexpress.us/item/3256805771551994.html)
-
-
+- [5" BTT on aliexpress](https://www.aliexpress.us/item/3256805702942821.html) - ❓ Untested
+- [5" BTT on Amazon](https://www.amazon.com/BIGTREETECH-Display-800x480-Compatible-Raspberry/dp/B0BC4CPDC3) - ❓ Untested
+- [Generic 7" with integrated stand on aliexpress](https://www.aliexpress.us/item/3256805771551994.html) - ❓ Untested
 
 # Support Me
 
