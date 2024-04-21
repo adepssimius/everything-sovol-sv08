@@ -20,7 +20,8 @@ For now I am using this as an outline to plan and a place to catalog mods that I
     1. [Cheaper HDMI Touchscreen](#cheaper-hdmi-touchscreen)
 3. [Support Me ❤️](#support-me)
 4. [Stay Up-to-Date](#stay-up-to-date)
-5. [Links](#links)
+5. [Reviews](#reviews)
+6. [Links](#links)
 
 
 # Printed Upgrades
@@ -77,6 +78,18 @@ Support the authors of the individual mods, [open source](https://en.wikipedia.o
 # Stay Up-to-Date
 
 This repository is a work in progress. Watch for updates by starring this repo.
+
+# Reviews
+Here are the reviews and hands on videos of the SV08 that I have found so far in case you are trying to make a decision on purchasing.
+
+- [gerGO PRINT 3D - 16:13](https://www.youtube.com/watch?v=oP_1vLehiww) is not a hands on or a review, but rather a meta-review that includes clips from many of the other videos listed here.
+- [mpoxDE - 43:09](https://www.youtube.com/watch?v=BmYEP9sSOzg) is a german language review that probably has some of the best analysis of the printer. Auto caption translation will be your friend.
+- [The Next Layer - 28:15](https://www.youtube.com/watch?v=PlFH9bzdwQs) is sponsored by Sovol.
+- [Loyal Moses - 18:44](https://www.youtube.com/watch?v=nxSXFJDDjR8)
+- [The Edge of Tech - 16:45](https://www.youtube.com/watch?v=1IAu-89P8TE)
+- [Nathan Builds Robots - 23:08](https://www.youtube.com/watch?v=Nc3oLzftmoo)
+- [Nero3D's Unboxing and first prints livestream - 3:05:06](https://www.youtube.com/watch?v=O1DSXK5TmKE)
+- [Nero3D's "not a review" - 15:29](https://www.youtube.com/watch?v=BpxruCuhfuc) is an unscripted list of complaints.
 
 # Links
 
