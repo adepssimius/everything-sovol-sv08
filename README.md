@@ -112,6 +112,7 @@ Here are the reviews and hands on videos of the SV08 that I have found so far in
 
 - [gerGO PRINT 3D - 16:13](https://www.youtube.com/watch?v=oP_1vLehiww) is not a hands on or a review, but rather a meta-review that includes clips from many of the other videos listed here.
 - [mpoxDE - 43:09](https://www.youtube.com/watch?v=BmYEP9sSOzg) is a german language review that probably has some of the best analysis of the printer. Auto caption translation will be your friend.
+- [My Tech Fun - 25:28](https://www.youtube.com/watch?v=iqZD7Zr2Hwg) has some excellent real worls usage and characterization test prints with bed levelling and flow rate analysis. He demonstrates time lapses with the built in camera.
 - [The Next Layer - 28:15](https://www.youtube.com/watch?v=PlFH9bzdwQs) is sponsored by Sovol.
 - [Loyal Moses - 18:44](https://www.youtube.com/watch?v=nxSXFJDDjR8)
 - [The Edge of Tech - 16:45](https://www.youtube.com/watch?v=1IAu-89P8TE)
