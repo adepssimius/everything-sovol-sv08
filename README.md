@@ -16,7 +16,7 @@ None reported shipped currently.
 # Outline
 
 1. Printed Upgrades
-    1. [Alternative More Printable SV08 Toolhead Cover by Damian Cady](#more-printable-sv08-toolhead-cover-by-damian-cady)
+    1. [Alternative More Printable SV08 Toolhead Cover by ectoBRUH](#more-printable-sv08-toolhead-cover-by-ectobruh)
     2. [BTT 5" HDMI Screen Adapter by Nadir](#btt-5-hdmi-screen-adapter-by-nadir)
     3. [Inductive Probe Elimination](#inductive-probe-elimination)
         1. [Microprobe Mod by Nixz_Leon](#microprobe-mod-by-nixz_leon)
@@ -33,14 +33,13 @@ None reported shipped currently.
 
 # Printed Upgrades
 
-## More Printable SV08 Toolhead Cover by Damian Cady
-The printhead cover is not well suited to printing. Print your own more easily with this model. There are two models available.
+## More Printable SV08 Toolhead Cover by ectoBRUH
+The printhead cover is not well suited to printing. Print your own more easily with this model.
 
 #### Testing Status: ❓ Untested
 
 #### Available at
-- [Printables](https://www.printables.com/model/849962-sovol-sv08-toolhead-cover)
-- [Printables - Alternative Design](https://www.printables.com/model/850271-sovol-sv08-alternative-toolhead-cover)
+- [Printables](https://www.printables.com/model/850271-sovol-sv08-alternative-toolhead-cover)
 
 ## BTT 5" HDMI Screen Adapter by Nadir
 The screen available from sovol is a bit pricey for what it is. Use this to be able to use a common 3d printer touch screen and have it look like your printer came with it.
