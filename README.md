@@ -40,6 +40,7 @@ The printhead cover is not well suited to printing. Print your own more easily w
 
 #### Available at
 - [Printables](https://www.printables.com/model/850271-sovol-sv08-alternative-toolhead-cover)
+- [Thingiverse](https://www.thingiverse.com/thing:6588417)
 
 ## BTT 5" HDMI Screen Adapter by Nadir
 The screen available from sovol is a bit pricey for what it is. Use this to be able to use a common 3d printer touch screen and have it look like your printer came with it.
@@ -85,6 +86,7 @@ These are the belt mounts that are included with the printer, modified to be mor
 
 #### Available at
 - [Printables](https://www.printables.com/model/851693)
+- [Thingiverse](https://www.thingiverse.com/thing:6588421)
 
 # Modifications
 
