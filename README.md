@@ -21,6 +21,7 @@ None reported shipped currently.
     3. [Inductive Probe Elimination](#inductive-probe-elimination)
         1. [Microprobe Mod by Nixz_Leon](#microprobe-mod-by-nixz_leon)
         2. [Klicky Probe Mod by Nadir](#klicky-probe-mod-by-nadir)
+    4. [Printable Belt Mounts by EctoBRUH]()
 2. Modifications
     1. [Cheaper HDMI Touchscreen](#cheaper-hdmi-touchscreen)
     2. [Quieter Mainboard Fan](#quieter-mainboard-fan)
@@ -77,6 +78,14 @@ _Further instructions will be added soon, as this is one of the first mods I wil
 
 #### Other Info
 - [Reddit Discussion and more info](https://www.reddit.com/r/Sovol/comments/1c82929/klicky_probe_mod_for_sovol_sv08/)
+
+## Printable Belt Mounts by ectoBRUH
+These are the belt mounts that are included with the printer, modified to be more easily printable.
+
+#### Testing Status: ❓ Untested
+
+#### Available at
+- [Printables](https://www.printables.com/model/851693)
 
 # Modifications
 
