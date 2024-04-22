@@ -21,7 +21,7 @@ None reported shipped currently.
     3. [Inductive Probe Elimination](#inductive-probe-elimination)
         1. [Microprobe Mod by Nixz_Leon](#microprobe-mod-by-nixz_leon)
         2. [Klicky Probe Mod by Nadir](#klicky-probe-mod-by-nadir)
-    4. [Printable Belt Mounts by EctoBRUH]()
+    4. [Printable Belt Mounts by EctoBRUH](#printable-belt-mounts-by-ectobruh)
 2. Modifications
     1. [Cheaper HDMI Touchscreen](#cheaper-hdmi-touchscreen)
     2. [Quieter Mainboard Fan](#quieter-mainboard-fan)
