@@ -105,7 +105,11 @@ The mainboard fan is a 24V 4010 axial fan. It can be replaced with a similar fan
 #### Noctua Fan
 A [12V 4010 Noctua fan](https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M) has been succesfully used with a [LM2596S DC-DC Buck Converter](https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0) inside a [3d printed case](https://www.printables.com/model/64519-dc-dc-buck-converter-case-lm2596). The yellow wire on the noctua fan was clipped and the black and red wires used to power the fan. This is community tested.
 
-A [24V 4010 Noctua fan](https://www.amazon.com/Noctua-NF-A4x10-24V-PWM-Applications/dp/B0CN39MCPL) should also work directly without the buck converter. It is currently not available on amazon. This is untested thus far.
+A 24V 4010 Noctua fan should also work directly without the buck converter. It is currently not available on amazon. This is untested thus far.
+
+Links:
+ - [Amazon ($29.99 from 3rd party seller)](https://www.amazon.com/Noctua-NF-A4x10-24V-PWM-Applications/dp/B0CN39MCPL)
+ - [Newegg (~$15 + Shipping)](https://www.newegg.com/p/13C-0005-00343)
 
 # Support Me
 
