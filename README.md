@@ -141,3 +141,6 @@ Here are the reviews and hands on videos of the SV08 that I have found so far in
 
 - [SV08 Stock Controller Home Directory](https://github.com/Sovol3d/SV08/tree/main/home)
 - [SV08 Controller Installation, Specifications, and Models](https://github.com/Sovol3d/SV08)
+- [SV08 Launch Live Stream](https://www.youtube.com/watch?v=BVQbmPFRowE)
+- [SV08 Launch Live Stream Part 2](https://www.youtube.com/watch?v=fEe7nXkIw5E)
+- [SV08 Q&A](https://www.youtube.com/watch?v=yZcEnbXUJvI)
