@@ -133,6 +133,8 @@ Here are the reviews and hands on videos of the SV08 that I have found so far in
 - [Nathan Builds Robots - 23:08](https://www.youtube.com/watch?v=Nc3oLzftmoo)
 - [Nero3D's Unboxing and first prints livestream - 3:05:06](https://www.youtube.com/watch?v=O1DSXK5TmKE)
 - [Nero3D's "not a review" - 15:29](https://www.youtube.com/watch?v=BpxruCuhfuc) is an unscripted list of complaints.
+- [Nero3D's "not a review" - 15:29](https://www.youtube.com/watch?v=OgX14lbYAJw)
+- [Aurora Tech's Sovol SV08 Review - 26:13](https://www.youtube.com/watch?v=OgX14lbYAJw)
 
 # Links
 
