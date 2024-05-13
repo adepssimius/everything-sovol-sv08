@@ -14,6 +14,9 @@ For now I am using this as an outline to plan and a place to catalog mods that I
 Order numbers starting with 552xx reported shipped in the US. Some order numbers starting with 551xx reported delivered in the US.
 No orders outside of US reported shipped.
 
+# Just Received Your Printer? You should probably:
+Update your firmware before you do anything else. There is a new firmware available since the printer first started shipping which is reported to possibly fix some print issues and error codes.
+
 # Outline
 
 1. Printed Upgrades
