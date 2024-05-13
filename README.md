@@ -102,14 +102,36 @@ The mainboard fan is a 24V 4010 axial fan. It can be replaced with a similar fan
 
 #### Testing Status: ❓ Tested by community, not by me.
 
+#### Software Modification
+By DonutCables - [reddit thread here](https://www.reddit.com/r/Sovol/comments/1cqntzu/first_mod_on_my_sv08_noctua_fan_for_the/), GH Issue with detail [here](https://github.com/adepssimius/everything-sovol-sv08/issues/3)
+
+This can be used with any of the fans, but a quieter fan will still be best. Adding this code to your `printer.cfg` should set the fan to only run while the controller is hot. This won't make the fan quieter while it is running, but it will allow it to not run all the time.
+
+```
+[temperature_fan MCU_fan]
+pin: PA1
+max_power: 1.0
+shutdown_speed: 1.0
+kick_start_time: 0.5
+off_below: 0.05
+sensor_type: temperature_host
+control: watermark
+target_temp: 45
+min_temp: 15
+max_temp: 80
+max_speed: 1.0
+min_speed: 0.0
+```
+
+You'll need to comment out the `[temperature_sensor Host_temp]` section and the `[output_pin *]` section for the PA1 pin that the fan is using by default.
+
+
+#### Testing Status: ❓ Tested by community, not by me.
+
 #### Noctua Fan
+A [24V 4010 Noctua fan](https://www.amazon.com/Noctua-NF-A4x10-24V-PWM-Applications/dp/B0CN39MCPL) will also work directly without the buck converter. It is currently not available on amazon. This is confirmed to work [here](https://www.reddit.com/r/Sovol/comments/1cqntzu/first_mod_on_my_sv08_noctua_fan_for_the/) and with more detail [here].
+
 A [12V 4010 Noctua fan](https://www.amazon.com/Noctua-Cooling-Blades-Bearing-NF-A4x10/dp/B009NQLT0M) has been succesfully used with a [LM2596S DC-DC Buck Converter](https://www.amazon.com/LM2596-Converter-Module-Supply-1-23V-30V/dp/B008BHBEE0) inside a [3d printed case](https://www.printables.com/model/64519-dc-dc-buck-converter-case-lm2596). The yellow wire on the noctua fan was clipped and the black and red wires used to power the fan. This is community tested.
-
-A 24V 4010 Noctua fan should also work directly without the buck converter. It is currently not available on amazon. This is untested thus far.
-
-Links:
- - [Amazon ($29.99 from 3rd party seller)](https://www.amazon.com/Noctua-NF-A4x10-24V-PWM-Applications/dp/B0CN39MCPL)
- - [Newegg (~$15 + Shipping)](https://www.newegg.com/p/13C-0005-00343)
 
 # Support Me
 
