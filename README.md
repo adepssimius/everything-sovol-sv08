@@ -11,7 +11,8 @@ _None of the links found here are affiliate links._
 For now I am using this as an outline to plan and a place to catalog mods that I find.
 
 # Shipping Status
-None reported shipped currently.
+Order numbers starting with 552xx reported shipped in the US. Some order numbers starting with 551xx reported delivered in the US.
+No orders outside of US reported shipped.
 
 # Outline
 
