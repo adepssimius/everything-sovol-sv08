@@ -11,11 +11,12 @@ _None of the links found here are affiliate links._
 For now I am using this as an outline to plan and a place to catalog mods that I find.
 
 # Shipping Status
-Order numbers starting with 552xx reported shipped in the US. Some order numbers starting with 551xx reported delivered in the US.
-No orders outside of US reported shipped.
+Order numbers into the 555xx range reported shipped, but there are reports of shipping out of order. There is also currently uncertainty around whether or not trade embargoes are affecting shipping times in the US.
+Several orders outside of the US have been reported shipped and delivered. Specifically Germany and Canada.
 
-# Just Received Your Printer? You should probably:
-Update your firmware before you do anything else. There is a new firmware available since the printer first started shipping which is reported to possibly fix some print issues and error codes.
+# Just Received Your Printer? Read this before assembly!
+* Before you assemble clean the small belts in the reduction belt drive between the stepper motors and the pulleys with rubbing alcohol. There are reports of too much lock-tite being applied to the pulley set screws resulting in a grinding/belt rubbing noise when the z axis moves. This pretty much has to be done before the printer is assembled or else you will need to disassemble to get access to the belts.
+* Update your firmware after assembling. There is a new firmware available since the printer first started shipping which is reported to possibly fix some print issues and error codes.
 
 # Outline
 
